@@ -19,7 +19,7 @@ def delete_ssh_contents(path):
         print(f"An error occurred: {e}")
 
 # Specify the path to the .ssh directory
-ssh_path = r"C:\Users\17197\.ssh"
+ssh_path = r"C:\Users\YOUR-PROFILE\.ssh"
 delete_ssh_contents(ssh_path)
 
 # Prompt to exit
