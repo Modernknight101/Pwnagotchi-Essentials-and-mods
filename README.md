@@ -70,6 +70,7 @@ display.py     fonts.py  __init__.py  state.py
 Now backup the files in the above folder using filezilla to the /files-backup/ folder
 ```
 Ok, once that's done, replace the .py files from the ui folder with the ones from this directory.
+/usr/local/lib/python3.7/dist-packages/pwnagotchi/ui #folder location
 
 ## :page_with_curl: Configuration
 From here, we will able configure the images for our custom Faces. So lets do that!
